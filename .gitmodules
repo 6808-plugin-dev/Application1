@@ -1,0 +1,15 @@
+[submodule "Host"]
+	path = Host
+	url = https://github.com/6808-plugin-dev/Host.git
+[submodule "PluginInterface"]
+	path = PluginInterface
+	url = https://github.com/6808-plugin-dev/PluginInterface.git
+[submodule "Plugin1"]
+	path = Plugin1
+	url = https://github.com/6808-plugin-dev/Plugin1.git
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/6808-plugin-dev/plugin3.git
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/6808-plugin-dev/plugin2.git
